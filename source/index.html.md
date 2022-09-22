@@ -101,7 +101,7 @@ let api = kittn.authorize('meowmeowmeow');
 let kittens = api.kittens.get();
 ```
 
-> The above command returns JSON structured like this:
+> The above command returns JSON structure like this:
 
 ```json
 [
